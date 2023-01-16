@@ -1,4 +1,4 @@
-### Ola, Me chamo Olavo Adriel, é um prazer te ver aqui 😉✌️!!
+### Olá, Me chamo Olavo Adriel, é um prazer te ver aqui!!😉✌️
 
 [![Instagram](https://img.shields.io/badge/Instagram-FA5882?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ollavo_adriel)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/olavo-adriel-545000204)
