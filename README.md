@@ -1,16 +1,19 @@
-### Hi there 👋
+### Ola, Me chamo Olavo Adrie, é um prazer te ver aqui 😉✌️!!
 
-<!--
-**olavuwdev/olavuwdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Instagram-FA5882?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ollavo_adriel)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/olavo-adriel-545000204)
+[![SoloLearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://sololearn.com/Profile/27118524/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tecnologias que uso: 
+![Python](	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML-FF0000?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-0101DF?&style=for-the-badge&logo=css3&logoColor=white)
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=olavuwdev&theme)
+
+
+Simpatizante da tecnologia, seguindo na area de segurança e automação.
