@@ -2,6 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-FA5882?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ollavo_adriel)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/olavo-adriel-545000204)
+![Gmail](https://img.shields.io/badge/ollavoadriel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![SoloLearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://sololearn.com/Profile/27118524/)
 
 
