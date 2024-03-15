@@ -1,4 +1,4 @@
-### Olá, Me chamo Olavo Adriel, é um prazer te ver aqui!!😉✌️
+### Olá, é um prazer te ver aqui!!😉✌️
 
 [![Instagram](https://img.shields.io/badge/Instagram-FA5882?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ollavo_adriel)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/olavo-adriel-545000204)
@@ -23,6 +23,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=olavuwdev&theme)
 
-<a href=#><img src="snake.svg"></a>
+![snake gif](https://github.com/olavuwdev/olavuwdev/blob/output/github-contribution-grid-snake-dark.svg)
 
-Simpatizante da tecnologia, seguindo na area de segurança e automação.
+
