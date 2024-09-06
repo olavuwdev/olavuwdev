@@ -26,8 +26,8 @@ I work with technology for the love of it, I'm an information technician and I v
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=olavuwdev&theme)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=olavuwdev)](https://github.com/olavuwdev)
 
 <h2>📫 How to reach me:</h2>
 
