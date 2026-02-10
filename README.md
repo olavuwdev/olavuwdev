@@ -1,4 +1,4 @@
-![Olavo Adriel Banner Image](./banner.png)
+![Olavo Adriel Banner Image](./CAPA-GITHUB.png)
 
 <h2>Hello World, Welcome to my repository!!😉✌️</h2>
 <h3>Here you should find several of my ideas and hobbies.</h3>
